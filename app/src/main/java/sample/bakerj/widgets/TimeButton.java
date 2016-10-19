@@ -168,8 +168,4 @@ public class TimeButton extends Button implements OnClickListener {
         this.lenght = lenght;
         return this;
     }
-    /*
-
-*
-*/
 }
